@@ -64,10 +64,12 @@
         </div>
         <nav>
             <ul>
+               ```
                 <li><a href="home.html">HOME</a></li>
                 <li><a href="products.html" class="active">PRODUCTS</a></li>
                 <li><a href="people.html">PEOPLE</a></li>
                 <li><a href="contact.html   ">CONTACT</a></li>
+            ```
             </ul>
         </nav>
         <div class="search-bar">
