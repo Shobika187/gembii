@@ -1,4 +1,6 @@
 ### HOME:
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +28,7 @@
         </div>
     </header>
 
-    <main>
+
         <div class="hero">
             <h2>
                 "Driving progress through<br>
@@ -38,7 +40,7 @@
                 <button class="signup">Sign Up</button>
             </div>
         </div>
-    </main>
+
 
     <footer>
         <p>DESIGNED AND DEVELOPED BY SHOBIKA P (212221230096)</p>
@@ -74,7 +76,7 @@
         </div>
     </header>
 
-    <main>
+
         <div class="product-grid">
             <div class="product">
                 <h3>C++</h3>
@@ -117,7 +119,7 @@
                 <p>F# is an Open-source programming language with a lot of features.</p>
             </div>
         </div>
-    </main>
+
 
     <footer>
         <p>Designed and DEVELOPED BY SHOBIKA P (212221230096)</p>
@@ -152,7 +154,7 @@
         </div>
     </header>
 
-    <main>
+    
         <div class="people-grid">
             <div class="person">
                 <img src="mee.jpg" alt="Roop Sagar">
@@ -185,7 +187,7 @@
                 <p class="title">Dy. Director</p>
             </div>
         </div>
-    </main>
+
 
     <footer>
         <p>Designed and DEVELOPED BY SHOBIKA P (212221230096)</p>
@@ -221,7 +223,7 @@
         </div>
     </header>
 
-    <main>
+
         <div class="contact-container">
             <div class="contact-form">
                 <h2>Contact Us</h2>
@@ -238,7 +240,6 @@
                 <p><strong>Phone:</strong> 9876543210</p>
             </div>
         </div>
-    </main>
 
     <footer>
         <p>Designed and DEVELOPED BY SHOBIKA P (212221230096)</p>
